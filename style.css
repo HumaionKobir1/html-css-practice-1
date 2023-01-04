@@ -1,0 +1,76 @@
+#heading-1{
+    color: #0000ff;
+    text-align: center;
+    height: 60pxpx;
+    width: auto;
+    background-color: #00ffff;
+    padding: 18px;
+
+}
+h5{
+    color: black;
+}
+.heading-part{
+    height: auto;
+    background-color: black;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+img{
+    height: 500px;
+    margin: 15px;
+    padding: 20px; 
+}
+button{
+    background-color: #09bc15;
+    padding: 7px;
+    height: 32px;
+    border-radius: 5px;
+    border: #fff;
+    margin-left: 10px;
+
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+button:hover{
+    background-color: #9894e9;
+    font-size: 14px;
+}
+button:hover a{
+    color: #02020d;
+}
+.kobir{
+    background-color: #00ffff;
+    border: 10px solid gray;
+    border-radius: 20px;
+    margin: 20px 40px;
+    padding: 10px 40px;
+    
+}
+#kobir-1{
+    background-color: #9894e9;
+    border: 10px dashed gray;
+    border-radius: 20px;
+    margin: 8px;
+    padding: 10px 40px;
+}
+.kobir-3{
+    background-color: #00ffff;
+    border: 10px solid gray;
+    border-radius: 20px;
+    padding: 10px 40px;
+    width: 25%;
+    float: left;
+    margin: 8px;
+}
+.kobir-section{
+    padding: 10px 40px;
+    overflow: hidden;
+    text-align: center;
+
+}
